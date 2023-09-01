@@ -1,6 +1,1 @@
-{
-  "set": {
-    "var": ["L:MISSION_VERSION", "number"]
-  },
-  "value": 99472
-}
+{"set": {"var":["L:MISSION_VERSION", "number"]}, "value":99472}
